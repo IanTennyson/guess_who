@@ -1,0 +1,51 @@
+.page-div {
+  border: 1px solid black;
+}
+
+h1 {
+  text-align: center;
+}
+
+.drinks-container {
+  border: solid 1px black;
+  display: inline-block;
+  width: 150px;
+  height: 200px;
+}
+
+.drink {
+  border: 1px solid black;
+}
+
+.drink-img-btn {
+
+  width: 150px;
+  height: 150px;
+}
+
+.drink-name-btn {
+
+  width: 150px;
+  height: 50px;
+}
+
+.all-filters div {
+  
+  text-align: center;
+}
+
+.spirit-filter {
+  border: solid 1px black;
+  width: 150px;
+  height: 150px;
+}
+
+.all-filters {
+  border: solid 1px black;
+  width: 150px;
+  height: 200px;
+}
+
+.spirit-clue{
+  text-align: center;
+}
